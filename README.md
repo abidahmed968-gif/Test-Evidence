@@ -12,7 +12,7 @@ This repository houses the complete manual and automated test execution artifact
 <br>
 Validates the core application setup flow, task additions, and successful end-to-end interface logic.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Videos/Login, Create project, create task Test Pass 2026-09-13 121628.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -21,7 +21,7 @@ Validates the core application setup flow, task additions, and successful end-to
 <br>
 Confirms stable rendering configurations during independent workspace and project environment generation.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Videos/project creation test pass 2026-09-13 080459.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -30,7 +30,7 @@ Confirms stable rendering configurations during independent workspace and projec
 <br>
 Demonstrates how the framework accurately handles dynamic wait states, elements loading delays, and synchronization exceptions.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Videos/TimeOutException 2026-09-13 072720.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -39,7 +39,7 @@ Demonstrates how the framework accurately handles dynamic wait states, elements 
 <br>
 Captures runtime debugging details, stack traces, and framework catch-blocks triggered during functional boundary discrepancies.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Videos/Error on Code 2026-09-13 071458.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -53,7 +53,7 @@ Captures runtime debugging details, stack traces, and framework catch-blocks tri
 <br>
 Demonstrates a system validation error allowing multiple workspace profiles to be created simultaneously under an identical text name.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/Defect%26Bug_Videos/Create Multiple project using same name 2026-09-13 133853.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -62,7 +62,7 @@ Demonstrates a system validation error allowing multiple workspace profiles to b
 <br>
 Captures a UI defect where pressing the 'Enter' key fails to submit form fields, forcing a physical mouse click interaction.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/Defect%26Bug_Videos/Enter doesn't work need to click login 2026-09-13 152354.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -71,7 +71,7 @@ Captures a UI defect where pressing the 'Enter' key fails to submit form fields,
 <br>
 Documents the lack of a password modification control panel or account recovery sequence within the user profile sub-menu layout.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/Defect%26Bug_Videos/No Password change option 2026-09-13 094114.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -85,7 +85,7 @@ Documents the lack of a password modification control panel or account recovery 
 <br>
 Validates error state behavior and policy restriction blocks when establishing entries using conflict criteria.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI ManualCheck_Videos/checkExisting email %26 weak password pass 2026-09-13 095148.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -94,7 +94,7 @@ Validates error state behavior and policy restriction blocks when establishing e
 <br>
 Confirms correct server rejection feedback strings when processing completely unregistered interface profile metrics.
 
-<video src="UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI ManualCheck_Videos/login with invalid details test pass 2026-09-13 095553.mp4" width="100%" controls></video>
+<video src="https://githubusercontent.com" width="100%" controls></video>
 
 </details>
 
@@ -107,28 +107,11 @@ Confirms correct server rejection feedback strings when processing completely un
 
 | UI Automation Login Pass | Dashboard Entry View |
 |---|---|
-| ![Login Verification](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/UI_AutomationClick_Passed_TestUserLogin_20260913_122156.png) | ![Dashboard Verification](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/UI_AutomationClick_Passed_TestUserLogin_20260913_115844.png) |
+| ![Login Verification](https://githubusercontent.com) | ![Dashboard Verification](https://githubusercontent.com) |
 
 ### 📊 System Configurations & Task Management
 
 | Project Pipeline Setup | Create Task State |
 |---|---|
-| ![Project Success](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/UI_AutomationClick_Passed_TestCreateProject_20260913_201310.png) | ![Task Pass](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/UI_AutomationClick.Passed_TestCreateTaskInsideProject_20260913_121549.png) |
+| ![Project Success](https://githubusercontent.com) | ![Task Pass](https://githubusercontent.com) |
 
-<details>
-<summary><b>🔍 View Remaining Visual Test Evidence (Click to Expand Additional Evidence)</b></summary>
-<br>
-  
-### ⚠️ Dynamic Wait States & Exception Catching
-
-| TimeoutException Validation | Code Error Interception |
-|---|---|
-| ![Timeout Log](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Uploading TimeoutException  20260913_073011.png) | ![Error Verification](UI Evidence/Abiduddin Ahmed - QA Assignment NOVA/Test Evidence/UI Automation/Uploading UI_AutomationClick.Failed_testCreateProject_20260913_072637.png) |
-
-</details>
-
----
-
-## 📋 5. QA Deliverables Enclosed
-*   **Requirements Traceability Matrix (RTM):** Tracking functional logic down to testing specifications.
-*   **Defect & Bug Report Logs:** Detailed accounts of platform exceptions captured during edge-case test runs.
