@@ -3,6 +3,9 @@
 This repository houses the complete manual and automated test execution artifacts, including comprehensive visual verifications, system defect logs, and end-to-end execution videos for the NOVA Tool platform.
 
 ---
+<video controls>
+  <source src="videos/test.mp4" type="video/mp4">
+</video>  
 
 ## 🎥 1. Test Automation Execution Videos (UI Automation)
 *Click the dropdown fields below to watch the automated Selenium/Playwright frameworks interact with core platform pathways.*
