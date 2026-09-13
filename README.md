@@ -125,16 +125,6 @@ Confirms correct server rejection feedback strings when processing completely un
 |---|---|
 | ![Timeout Log](https://github.com) | ![Error Verification](https://github.com) |
 
-### 📋 Full Automation Verification Run Logs
-*Additional capture logs verifying layout rendering, element persistence, and structural page alignments:*
-
-* `UI_AutomationClick Passed_TestUserLogin_20260913_042215.png`
-* `Uploading UI_AutomationClick.Failed_testCreateProject_20260913_072325.png`
-* `Uploading UI_AutomationClick.Failed_testCreateProject_20260913_074103.png`
-* `Uploading UI_AutomationClick.Passed_TestCreateProject_20260913_115851.png`
-* `Uploading UI_AutomationClick.Passed_TestCreateProject_20260913_122204.png`
-* `Uploading UI_AutomationClick.Passed_TestUserLogin_20260913_113548.png`
-
 </details>
 
 ---
