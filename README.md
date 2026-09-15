@@ -1,3 +1,6 @@
+![Uploading UI_AutomationClick.Failed_testCreateProject_20260913_072325.png…]()
+<img width="1920" height="842" alt="UI_AutomationClick Passed_TestCreateProject_20260913_201310" src="https://github.com/user-attachments/assets/0853d57e-b380-4fa7-a241-124430c135e3" />
+<img width="1920" height="842" alt="UI_AutomationClick Passed_TestCreateTaskInsideProject_20260913_201311" src="https://github.com/user-attachments/assets/b9fb00f0-5723-4caa-b444-78da5ec127df" />
 Video Evidence of All Test- 
 https://drive.google.com/drive/folders/1frESi3f-mOYqvM7rhYLW4XQfFGz42BLI?usp=sharing
 <img width="1920" height="1080" alt="TimeoutException  20260913_073011" src="https://github.com/user-attachments/assets/ee6f14b3-ea0f-4b15-a8d7-12a1288b1728" />
